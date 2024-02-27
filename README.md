@@ -1,6 +1,6 @@
 # ColorPaletteManager
 
-![ColorPaletteManager](./images/img_window.png)
+![ColorPaletteManager](./image.png)
 
 Описание:
 
